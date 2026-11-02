@@ -1,1 +1,1 @@
-<img src="assets/tree-v1.svg" width="100%" alt="">
+<img src="assets/tower-t40.svg" width="100%" alt="">
